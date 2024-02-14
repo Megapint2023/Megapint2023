@@ -1,4 +1,4 @@
-### Hi there 👋
+"The wise don't wait to enjoy the view from the top of the mountain, they recognize the beauty in the journey upwards".
 
 <!--
 **Megapint2023/Megapint2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
